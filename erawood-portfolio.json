@@ -1,0 +1,140 @@
+{
+  "hero": {
+    "pill": "模块化木结构｜可持续建筑",
+    "title": "以自然为灵感，打造轻盈而温暖的模块化栖居空间",
+    "intro": "EraWood 专注模块化木结构建筑 15 年，以工业化精准制造与现场快速拼装，为城市品牌与自然度假项目打造高品质空间。",
+    "since": "2009-2024",
+    "signature": "EraWood 设计与制造"
+  },
+  "sections": {
+    "works": {
+      "title": "模块化建筑作品精选",
+      "description": "从山野木屋、城市展厅到旅居营地，我们将模块化技术与木结构美学结合，创造出灵活、环保且富有情感的空间体验。点击任一作品，即可逐张浏览高清效果图。"
+    },
+    "contact": {
+      "title": "联系我们",
+      "description": "欢迎体验 EraWood 的模块化建筑解决方案。我们提供从概念设计、结构生产到现场安装的全流程服务，助力品牌打造具有温度的空间。"
+    },
+    "admin": {
+      "title": "登录",
+      "description": "请登录以维护作品分类、项目内容和图集。所有数据保存于浏览器本地存储，可离线使用。"
+    },
+    "footer": {
+      "tagline": "以模块化建构自然栖居"
+    }
+  },
+  "branding": {
+    "companyName": "EraWood Studio",
+    "logoText": "EW",
+    "logoImage": "",
+    "companyIntro": "以模块化建构自然栖居，连接城市与山野的可持续空间。",
+    "logoTransform": {
+      "scale": 1,
+      "offsetX": 0,
+      "offsetY": 0
+    }
+  },
+  "categories": [
+    {
+      "id": "cat-forest",
+      "name": "森林系列",
+      "description": "与山林共生的木屋产品线，强调轻盈结构与自然景观的融合。",
+      "works": [
+        {
+          "id": "work-920b7e6f-92de-4ce4-a91a-d4fb829615e3",
+          "name": "CAPWELL 望山",
+          "description": "全家出游首选的亲子城堡一双层豪华木屋",
+          "location": "",
+          "area": "",
+          "year": "",
+          "interiorArea": "",
+          "footprint": "",
+          "productSize": "",
+          "roomType": "",
+          "coverId": "work-920b7e6f-92de-4ce4-a91a-d4fb829615e3-img-686aa3f5-cd45-4dcd-b3e5-54f7215fe21f",
+          "images": [
+            {
+              "id": "work-920b7e6f-92de-4ce4-a91a-d4fb829615e3-img-686aa3f5-cd45-4dcd-b3e5-54f7215fe21f",
+              "alt": "CAPWELL 望山-室外人视角",
+              "src": "work-920b7e6f-92de-4ce4-a91a-d4fb829615e3-img-686aa3f5-cd45-4dcd-b3e5-54f7215fe21f.jpg",
+              "transform": {
+                "scale": 1,
+                "offsetX": 0,
+                "offsetY": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "work-29de4b26-65aa-48d4-b73c-81dd640a1c03",
+          "name": "sdfsdaf",
+          "description": "sadfsadf",
+          "location": "",
+          "area": "",
+          "year": "",
+          "interiorArea": "",
+          "footprint": "",
+          "productSize": "",
+          "roomType": "",
+          "coverId": "work-29de4b26-65aa-48d4-b73c-81dd640a1c03-img-42b1feee-1e99-43a8-a4b1-493e1366188e",
+          "images": [
+            {
+              "id": "work-29de4b26-65aa-48d4-b73c-81dd640a1c03-img-42b1feee-1e99-43a8-a4b1-493e1366188e",
+              "alt": "CAPWELL 云栖-室外人视角",
+              "src": "work-29de4b26-65aa-48d4-b73c-81dd640a1c03-img-42b1feee-1e99-43a8-a4b1-493e1366188e.jpg",
+              "transform": {
+                "scale": 1,
+                "offsetX": 0,
+                "offsetY": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "work-1078405a-a41f-4cdf-acee-8d690c0f49c6",
+          "name": "sdfsadfasdf",
+          "description": "asdfasdfsadf",
+          "location": "",
+          "area": "",
+          "year": "",
+          "interiorArea": "",
+          "footprint": "",
+          "productSize": "",
+          "roomType": "",
+          "coverId": "work-1078405a-a41f-4cdf-acee-8d690c0f49c6-img-471701cb-ef15-4db7-9e1f-da519785e780",
+          "images": [
+            {
+              "id": "work-1078405a-a41f-4cdf-acee-8d690c0f49c6-img-471701cb-ef15-4db7-9e1f-da519785e780",
+              "alt": "CAPWELL知野-室外人视角",
+              "src": "work-1078405a-a41f-4cdf-acee-8d690c0f49c6-img-471701cb-ef15-4db7-9e1f-da519785e780.jpg",
+              "transform": {
+                "scale": 1,
+                "offsetX": 0,
+                "offsetY": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-urban",
+      "name": "城市展厅",
+      "description": "针对城市商业场景打造的模块化展厅体系，兼顾快速安装与品牌调性。",
+      "works": []
+    },
+    {
+      "id": "cat-resort",
+      "name": "旅居营地",
+      "description": "以营地运营为核心的模块化轻型建筑，注重舒适度与运维效率。",
+      "works": []
+    }
+  ],
+  "contact": {
+    "phone": "+86 21 8888 6688",
+    "email": "hello@erawood.com",
+    "address": "上海市杨浦区创智天地设计中心 A 座 5F",
+    "wechat": "EraWood_Studio",
+    "note": "如需定制方案或获取 BIM/施工资料，请通过电话或邮件与我们联系，我们将在 1 个工作日内回复。"
+  }
+}
